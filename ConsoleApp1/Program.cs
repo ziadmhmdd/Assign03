@@ -9,7 +9,7 @@
 
 
             #region User Defined Delegate
-            List<Book> books = new List<Book>
+            List<Book> books = new List<Book> 
             {
                new Book("111", "C# Basics", new string[] {"Ahmed Ali"}, new DateTime(2020, 5, 1), 150),
                new Book("222", "Advanced C#", new string[] {"Sara Mohamed", "Omar Ali"}, new DateTime(2021, 3, 15), 250)
